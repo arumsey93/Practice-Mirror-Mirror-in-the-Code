@@ -1,0 +1,26 @@
+#div {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.art1 {
+    border: 1px solid red;
+    align-items: center;
+    margin: 5px;
+    padding: 8px;
+    width: 50%;
+}
+
+.art2 {
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 8px;
+    width: 50%;
+    text-align: left;
+}
+
+#message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
